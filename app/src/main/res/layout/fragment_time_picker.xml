@@ -1,0 +1,10 @@
+<TimePicker xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="id.ac.astra.polman.criminalintent.TimePickerFragment"
+    android:id="@+id/dialog_time_time_picker"
+    android:calendarViewShown="false"
+    >
+
+</TimePicker>
